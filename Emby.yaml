@@ -1,2 +1,2 @@
-# ouo emby
-DOMAIN-SUFFIX,random.ouonet.org
+payload:
+  - DOMAIN-SUFFIX,random.ouonet.org
