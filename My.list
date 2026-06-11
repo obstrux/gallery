@@ -1,7 +1,10 @@
-DOMAIN-SUFFIX,safebrowsing.googleapis.com
-DOMAIN-SUFFIX,safebrowsing.urlsec.qq.com
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-DOMAIN-SUFFIX,googleapis.cn
-DOMAIN-SUFFIX,myhuaweicloud.com
-DOMAIN-SUFFIX,ouonetwork.com
-
+payload:
+- DOMAIN-SUFFIX,safebrowsing.googleapis.com
+- DOMAIN-SUFFIX,safebrowsing.urlsec.qq.com
+- DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+- DOMAIN-SUFFIX,googleapis.cn
+- DOMAIN-SUFFIX,myhuaweicloud.com
+- DOMAIN-SUFFIX,ouonetwork.com
+- DOMAIN-SUFFIX,1panel.live
+- DOMAIN-SUFFIX,1panel.cn
+- DOMAIN-SUFFIX,cloudreve.s7.686626.xyz
