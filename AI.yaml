@@ -1,22 +1,23 @@
-# Cursor
-DOMAIN-SUFFIX,cursor.com
-DOMAIN-SUFFIX,cursor.sh
-DOMAIN-SUFFIX,cursor-cdn.com
-DOMAIN-SUFFIX,cursorapi.com
-# Windsurf
-DOMAIN-SUFFIX,windsurf.com
-DOMAIN-SUFFIX,codeium.com
-# Trae
-DOMAIN-SUFFIX,trae.ai
-DOMAIN-SUFFIX,byteoversea.com
-DOMAIN-SUFFIX,trae-api-sg.mchost.guru
-DOMAIN-SUFFIX,lf3-static.bytednsdoc.com
-DOMAIN-SUFFIX,bytegate-sg.byteintlapi.com
-DOMAIN-SUFFIX,abtestvm-sg.bytedance.com
-DOMAIN-SUFFIX,tron-sg.bytelemon.com
-DOMAIN-SUFFIX,sf16-short-sg.bytedapm.com
-DOMAIN-SUFFIX,trae.com.cn
-DOMAIN-SUFFIX,tron.jiyunhudong.com
-DOMAIN-SUFFIX,starling.zijieapi.com
-# AugmentCode
-DOMAIN-SUFFIX,augmentcode.com
+payload:
+  # Cursor
+  - DOMAIN-SUFFIX,cursor.com
+  - DOMAIN-SUFFIX,cursor.sh
+  - DOMAIN-SUFFIX,cursor-cdn.com
+  - DOMAIN-SUFFIX,cursorapi.com
+  # Windsurf
+  - DOMAIN-SUFFIX,windsurf.com
+  - DOMAIN-SUFFIX,codeium.com
+  # Trae
+  - DOMAIN-SUFFIX,trae.ai
+  - DOMAIN-SUFFIX,byteoversea.com
+  - DOMAIN-SUFFIX,trae-api-sg.mchost.guru
+  - DOMAIN-SUFFIX,lf3-static.bytednsdoc.com
+  - DOMAIN-SUFFIX,bytegate-sg.byteintlapi.com
+  - DOMAIN-SUFFIX,abtestvm-sg.bytedance.com
+  - DOMAIN-SUFFIX,tron-sg.bytelemon.com
+  - DOMAIN-SUFFIX,sf16-short-sg.bytedapm.com
+  - DOMAIN-SUFFIX,trae.com.cn
+  - DOMAIN-SUFFIX,tron.jiyunhudong.com
+  - DOMAIN-SUFFIX,starling.zijieapi.com
+  # AugmentCode
+  - DOMAIN-SUFFIX,augmentcode.com
