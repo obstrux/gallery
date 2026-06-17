@@ -1,16 +1,16 @@
 payload:
-- safebrowsing.googleapis.com
-- safebrowsing.urlsec.qq.com
-- xn--ngstr-lra8j.com
-- +.googleapis.cn
-- +.myhuaweicloud.com
-- +.ouonetwork.com
-- +.1panel.live
-- +.1panel.cn
-- cloudreve.s7.686626.xyz
-- lucen.cc
-- +.feishu.cn
-- no-mad-sub.one
-- dash.pqjc.site
-- selectgroup.click
-- unibest.tech
+ - safebrowsing.googleapis.com
+ - safebrowsing.urlsec.qq.com
+ - xn--ngstr-lra8j.com
+ - +.googleapis.cn
+ - +.myhuaweicloud.com
+ - +.ouonetwork.com
+ - +.1panel.live
+ - +.1panel.cn
+ - cloudreve.s7.686626.xyz
+ - lucen.cc
+ - +.feishu.cn
+ - no-mad-sub.one
+ - dash.pqjc.site
+ - selectgroup.click
+ - unibest.tech
